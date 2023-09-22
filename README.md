@@ -31,5 +31,5 @@ A repository with all of my Frontend Mentor projects.
 - [REST Countries API with color theme switcher](https://www.frontendmentor.io/solutions/nextjsreact-sass-responsive-ZPSen0RIUl) - Next.js/React, RESTful API, and Sass.
 
 ## S
-- [Space tourism multi-page website](https://www.frontendmentor.io/solutions/nextjs-react-responsive-with-sass-ZJalweAxxc) - Next.js and Sass.
+- [Space tourism multi-page website](https://www.frontendmentor.io/solutions/nextjs-react-responsive-with-sass-ZJalweAxxc) - Next.js/React and Sass.
 - [Stats preview card component](https://www.frontendmentor.io/solutions/stats-preview-card-component-j1CW3z0A9F) - HTML and CSS.
